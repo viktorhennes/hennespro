@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.hennes.pro/</loc>
+    <loc>https://www.hennes.pro/</loc>
     <lastmod>2022-08-05T23:20:14+05:00</lastmod>
   </url><url>
-    <loc>http://www.hennes.pro/posts/my-first-post/</loc>
+    <loc>https://www.hennes.pro/posts/my-first-post/</loc>
     <lastmod>2022-08-05T23:20:14+05:00</lastmod>
   </url><url>
-    <loc>http://www.hennes.pro/posts/</loc>
+    <loc>https://www.hennes.pro/posts/</loc>
     <lastmod>2022-08-05T23:20:14+05:00</lastmod>
   </url><url>
-    <loc>http://www.hennes.pro/categories/</loc>
+    <loc>https://www.hennes.pro/categories/</loc>
   </url><url>
-    <loc>http://www.hennes.pro/tags/</loc>
+    <loc>https://www.hennes.pro/tags/</loc>
   </url>
 </urlset>
