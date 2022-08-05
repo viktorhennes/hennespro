@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>HENNES</title>
     <link>http://www.hennes.pro/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on HENNES</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Aug 2022 23:20:14 +0500</lastBuildDate><atom:link href="http://www.hennes.pro/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +13,7 @@
       <pubDate>Fri, 05 Aug 2022 23:20:14 +0500</pubDate>
       
       <guid>http://www.hennes.pro/posts/my-first-post/</guid>
-      <description>KOT
-TOK
-KOT </description>
+      <description>Пока-что тут ничего нет</description>
     </item>
     
   </channel>
