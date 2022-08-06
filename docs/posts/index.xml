@@ -6,23 +6,16 @@
     <description>Recent content in Posts on HENNES</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Aug 2022 14:07:07 +0500</lastBuildDate><atom:link href="http://www.hennes.pro/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Aug 2022 23:20:14 +0500</lastBuildDate><atom:link href="http://www.hennes.pro/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Last Post</title>
-      <link>http://www.hennes.pro/posts/my-last-post/</link>
-      <pubDate>Sat, 06 Aug 2022 14:07:07 +0500</pubDate>
-      
-      <guid>http://www.hennes.pro/posts/my-last-post/</guid>
-      <description>Hello world</description>
-    </item>
-    
-    <item>
-      <title>My First Site</title>
+      <title>Спасибо, что посетили мой сайт</title>
       <link>http://www.hennes.pro/posts/my-first-post/</link>
       <pubDate>Fri, 05 Aug 2022 23:20:14 +0500</pubDate>
       
       <guid>http://www.hennes.pro/posts/my-first-post/</guid>
-      <description>Пока-что тут ничего нет</description>
+      <description>Я переезжаю со старого хостинга на другой и пока-что тут ничего нет.
+Некоторые мои проекты доступны на Behance
+Для связи со мной можно использовать Telegram</description>
     </item>
     
   </channel>
