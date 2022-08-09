@@ -5,8 +5,17 @@
     <link>http://www.hennes.pro/</link>
     <description>Recent content on HENNES</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 05 Aug 2022 23:20:14 +0500</lastBuildDate><atom:link href="http://www.hennes.pro/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru-ru</language>
+    <lastBuildDate>Tue, 09 Aug 2022 02:18:24 +0500</lastBuildDate><atom:link href="http://www.hennes.pro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UCR</title>
+      <link>http://www.hennes.pro/design/ucr/</link>
+      <pubDate>Tue, 09 Aug 2022 02:18:24 +0500</pubDate>
+      
+      <guid>http://www.hennes.pro/design/ucr/</guid>
+      <description> </description>
+    </item>
+    
     <item>
       <title>Спасибо, что посетили мой сайт</title>
       <link>http://www.hennes.pro/posts/my-first-post/</link>
@@ -14,6 +23,17 @@
       
       <guid>http://www.hennes.pro/posts/my-first-post/</guid>
       <description>Я переезжаю со старого хостинга на другой и пока-что тут ничего нет.
+Некоторые мои проекты доступны на Behance
+Для связи со мной можно использовать Telegram</description>
+    </item>
+    
+    <item>
+      <title>Связь со мной</title>
+      <link>http://www.hennes.pro/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.hennes.pro/contact/</guid>
+      <description>Я переезжаю со старого хостинга на новый и пока-что тут ничего нет.
 Некоторые мои проекты доступны на Behance
 Для связи со мной можно использовать Telegram</description>
     </item>
