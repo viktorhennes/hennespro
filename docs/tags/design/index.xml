@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>design on HENNES</title>
+    <link>http://www.hennes.pro/tags/design/</link>
+    <description>Recent content in design on HENNES</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Tue, 09 Aug 2022 02:18:24 +0500</lastBuildDate><atom:link href="http://www.hennes.pro/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UCR</title>
+      <link>http://www.hennes.pro/design/ucr/</link>
+      <pubDate>Tue, 09 Aug 2022 02:18:24 +0500</pubDate>
+      
+      <guid>http://www.hennes.pro/design/ucr/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>

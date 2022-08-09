@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://www.hennes.pro/tags/design/</loc>
+    <lastmod>2022-08-09T02:18:24+05:00</lastmod>
+  </url><url>
     <loc>http://www.hennes.pro/design/</loc>
     <lastmod>2022-08-09T02:18:24+05:00</lastmod>
   </url><url>
     <loc>http://www.hennes.pro/</loc>
+    <lastmod>2022-08-09T02:18:24+05:00</lastmod>
+  </url><url>
+    <loc>http://www.hennes.pro/tags/</loc>
     <lastmod>2022-08-09T02:18:24+05:00</lastmod>
   </url><url>
     <loc>http://www.hennes.pro/design/ucr/</loc>
@@ -18,8 +24,6 @@
     <lastmod>2022-08-05T23:20:14+05:00</lastmod>
   </url><url>
     <loc>http://www.hennes.pro/categories/</loc>
-  </url><url>
-    <loc>http://www.hennes.pro/tags/</loc>
   </url><url>
     <loc>http://www.hennes.pro/contact/</loc>
   </url>
