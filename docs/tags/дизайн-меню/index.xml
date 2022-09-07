@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Designs on HENNES</title>
-    <link>http://www.hennes.pro/design/</link>
-    <description>Recent content in Designs on HENNES</description>
+    <title>дизайн меню on HENNES</title>
+    <link>http://www.hennes.pro/tags/%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%BC%D0%B5%D0%BD%D1%8E/</link>
+    <description>Recent content in дизайн меню on HENNES</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.hennes.pro/design/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Mamina Dolka</title>
-      <link>http://www.hennes.pro/design/maminadolka/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.hennes.pro/design/maminadolka/</guid>
-      <description>Магазин детской одежды в социальной сети.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 23 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.hennes.pro/tags/%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%BC%D0%B5%D0%BD%D1%8E/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UCR menu and covers</title>
       <link>http://www.hennes.pro/design/ucr_menu_covers_3/</link>
@@ -41,24 +32,6 @@
       
       <guid>http://www.hennes.pro/design/ucr_menu_covers_1/</guid>
       <description>Меню и обложки меню для кофейни. Часть первая.</description>
-    </item>
-    
-    <item>
-      <title>UNION COFFEE RECORDS</title>
-      <link>http://www.hennes.pro/design/ucr/</link>
-      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.hennes.pro/design/ucr/</guid>
-      <description>Кофейня и магазин виниловых пластинок.</description>
-    </item>
-    
-    <item>
-      <title>Paprika 7</title>
-      <link>http://www.hennes.pro/design/paprika_7/</link>
-      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.hennes.pro/design/paprika_7/</guid>
-      <description>Ресторан европейской и азиатской кухни.</description>
     </item>
     
   </channel>
