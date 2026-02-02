@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Designs on HENNES</title>
-    <link>http://localhost:1313/design/</link>
+    <link>https://www.hennes.pro/design/</link>
     <description>Recent content in Designs on HENNES</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 26 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.hennes.pro/design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DRY WOOD</title>
-      <link>http://localhost:1313/design/drywood/</link>
+      <link>https://www.hennes.pro/design/drywood/</link>
       <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/design/drywood/</guid>
+      <guid>https://www.hennes.pro/design/drywood/</guid>
       <description>Мастерская авторской мебели</description>
     </item>
     
     <item>
       <title>Mamina Dolka</title>
-      <link>http://localhost:1313/design/maminadolka/</link>
+      <link>https://www.hennes.pro/design/maminadolka/</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/design/maminadolka/</guid>
+      <guid>https://www.hennes.pro/design/maminadolka/</guid>
       <description>Магазин детской одежды в социальной сети.</description>
     </item>
     
     <item>
       <title>UCR menu and covers</title>
-      <link>http://localhost:1313/design/ucr_menu_covers_3/</link>
+      <link>https://www.hennes.pro/design/ucr_menu_covers_3/</link>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/design/ucr_menu_covers_3/</guid>
+      <guid>https://www.hennes.pro/design/ucr_menu_covers_3/</guid>
       <description>Меню и обложки меню для кофейни. Часть третья.</description>
     </item>
     
     <item>
       <title>UCR menu and covers</title>
-      <link>http://localhost:1313/design/ucr_menu_covers_2/</link>
+      <link>https://www.hennes.pro/design/ucr_menu_covers_2/</link>
       <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/design/ucr_menu_covers_2/</guid>
+      <guid>https://www.hennes.pro/design/ucr_menu_covers_2/</guid>
       <description>Меню и обложки меню для кофейни. Часть вторая.</description>
     </item>
     
     <item>
       <title>Стройград</title>
-      <link>http://localhost:1313/design/stroygrad/</link>
+      <link>https://www.hennes.pro/design/stroygrad/</link>
       <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/design/stroygrad/</guid>
+      <guid>https://www.hennes.pro/design/stroygrad/</guid>
       <description>Архитектурно-строительная компания</description>
     </item>
     
     <item>
       <title>UCR menu and covers</title>
-      <link>http://localhost:1313/design/ucr_menu_covers_1/</link>
+      <link>https://www.hennes.pro/design/ucr_menu_covers_1/</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/design/ucr_menu_covers_1/</guid>
+      <guid>https://www.hennes.pro/design/ucr_menu_covers_1/</guid>
       <description>Меню и обложки меню для кофейни. Часть первая.</description>
     </item>
     
     <item>
       <title>UNION COFFEE RECORDS</title>
-      <link>http://localhost:1313/design/ucr/</link>
+      <link>https://www.hennes.pro/design/ucr/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/design/ucr/</guid>
+      <guid>https://www.hennes.pro/design/ucr/</guid>
       <description>Кофейня и магазин виниловых пластинок.</description>
     </item>
     
     <item>
       <title>Paprika 7</title>
-      <link>http://localhost:1313/design/paprika_7/</link>
+      <link>https://www.hennes.pro/design/paprika_7/</link>
       <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/design/paprika_7/</guid>
+      <guid>https://www.hennes.pro/design/paprika_7/</guid>
       <description>Ресторан европейской и азиатской кухни.</description>
     </item>
     
